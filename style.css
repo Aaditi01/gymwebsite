@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.conatiner{
+    max-width: 80vw;
+}
+.navbar{
+    display:flex;
+    height:67px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0px 17px;
+
+}
+.left{
+    width:50%;
+    height: 50vh;
+    
+
+}
+.right{
+    width:50%;
+    height: 50vh;
+    
+    
+}
+.section1 h1{
+    font-size: 2rem;
+    
+}
+
+.logo{
+    font-size: 3.5rem;
+}
+.dumbelimg{
+    width: 289px;
+}
+.right.gymimg{
+    height: 89px;
+}
+.section2{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+.section2 h1{font-size: 2.5rem;
+
+}
+.box{
+    padding :8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    border-radius: 4px;
+    text-align: center;
+}
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.box ul{
+    list-style: none;
+}
+.box ul li{
+    margin:12px 2px;
+}
+.box h2{
+    font-size: 2rem;
+}
+.section2{
+    padding:0 8vw;
+    text-align: center;
+}
+.plantable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.section3 table th{
+    width:23vw;
+    border-bottom: 2px solid goldenrod;
+    padding:15px 0;
+    
+}
+.section3 table td{
+    border-bottom: 2px solid  goldenrod;
+    
+}
+
+.section3 table{
+    width:100%;
+    margin-bottom:140px ;
+    margin-top: 40px;
+    border-collapse: collapse;
+}
+.section3 h1{
+    font-size: 2.3rem;
+}
+.section3{
+    padding-right: 63px;
+    padding-left: 63px;
+}
+.same{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
